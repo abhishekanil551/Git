@@ -1,7 +1,7 @@
 
 ---
 
-##  Git Cheat Sheet (Quick Reference)
+##  Git Cheat Sheet 
 
 | **Command**                              | **Description**                            |
 |----------------------------------------|----------------------------------------|
