@@ -1,7 +1,7 @@
 
 ---
 
-## 🛠️ Git Cheat Sheet (Quick Reference)
+##  Git Cheat Sheet (Quick Reference)
 
 | **Command**                              | **Description**                            |
 |----------------------------------------|----------------------------------------|
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 How to Use This Repo
+##  How to Use This Repo
 
 Clone the repo:
 
