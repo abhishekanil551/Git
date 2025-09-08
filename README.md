@@ -2,5 +2,24 @@
 
 
 
-# Git
-A complete guide to Git basics, commands, branching, and workflows
+# Git Tutorials 🚀
+
+This repository contains my personal **Git tutorials**, **command references**, and **hands-on exercises**.  
+It covers everything from **beginner basics** to **pro-level workflows**.
+
+---
+
+## 📌 Topics Covered
+
+- Introduction to Git & Version Control
+- Creating and Managing Commits
+- Viewing and Restoring Previous Versions
+- Staging vs Working Directory
+- Branching and Merging Basics
+- `.gitignore` Usage
+- Configuring User Details
+- Git Shortcuts and Aliases
+- Removing Git from a Project
+
+---
+
